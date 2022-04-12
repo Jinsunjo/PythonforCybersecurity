@@ -18,3 +18,9 @@ Miso paste
 Dashi paste
 Japnese Moon bread
 
+
+# broken Items #
+
+Rice cooker
+Tea Pot 
+Air Fryer
