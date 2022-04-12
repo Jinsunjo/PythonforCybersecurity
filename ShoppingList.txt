@@ -1,17 +1,20 @@
+# New list of Foods for 4/11/2022 #
+
+#Core ingredients#
+
+Eggs 
 Milk
-Break
-Bananas
-Eggs
+Flour 
+Potato
+Carrots
+firm tofu
+ground beef
+heavy whipping cream
 
-# For healthy Reasons #
+#Asian products#
 
-Starberry
-Kiwi
-Apples
-Peanutbutter
+Medium hot Japanese Curry packet
+Miso paste
+Dashi paste
+Japnese Moon bread
 
-# healthy snacks for girlfriend and me #
-
-Dark Chocolates
-Keto Vanilla Icecream
-low fat white chedder popcorn chips
