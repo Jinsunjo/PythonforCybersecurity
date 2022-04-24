@@ -19,4 +19,4 @@ set_year = int(2)
 
 total_years = user_input + set_year
 
-print("In two year you're gonna be {0}".format(total_years))
+print("In two year you're gonna be {0}".format(total_years) + " years old")
