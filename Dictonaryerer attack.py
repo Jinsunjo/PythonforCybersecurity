@@ -26,7 +26,7 @@ def userpassword(alorithm_salt, hashed_password, password_guess):
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
-f = open(dir_path + "/top10.txt", "r")
+f = open(dir_path + "/top1000.txt", "r")
 
 passwords = f.readlines()
 
